@@ -16,14 +16,27 @@ To build a smart contract that allows for design of NFT and build a NFT market p
 * Solidity
 * React
 * Node.js
+* ethers
+* hardhat
+* @nomiclabs/hardhat-waffle
+* ethereum-waffle chai
+* @nomiclabs/hardhat-ethers
+* web3modal
+* @openzeppelin/contracts
+* ipfs-http-client
+* axios
 ---
 ## **Installation guide**
-<br/>
-## Examples
-<br/>
-## Usage
-<br/>
-## Contributors
-<br/>
+The [installation guide][Installation_Guides/Installation Guide.md] for node.js, ethers, hardhat, ethereum-waffel, web3modal, ipfs, axios can be found in installation folder.
+---
+## **Contributors**
+* [Bailey Carlson](https://github.com/BaileyCT)
+* [Wesley Osborne](https://github.com/WesleyOsborne)
+* [Jordan Candido](https://github.com/JordanCandido)
+* [Lucas Nardy](https://github.com/lucaspsnardy)
+* [Ashweej Shenoy](https://github.com/ashweej18)
+
+---
+
 ## License
 <br/>
