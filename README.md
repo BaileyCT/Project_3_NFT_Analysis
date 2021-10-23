@@ -9,7 +9,7 @@ According to Ethereum.org, NFTs are tokens that we can use to represent ownershi
 ---
 ## **Objective**
 
-To build a smart contract that allows for design of NFT and build a NFT market place.
+To build a smart contract that allows for design,minting of NFT and to build a NFT market place.
 
 ---
 ## **Technologies**
@@ -25,10 +25,12 @@ To build a smart contract that allows for design of NFT and build a NFT market p
 * @openzeppelin/contracts
 * ipfs-http-client
 * axios
+* Javascript
 ---
 ## **Installation guide** </br>
 
-The [installation guide][Installation_Guides/Installation Guide.md] for node.js, ethers, hardhat, ethereum-waffel, web3modal, ipfs, axios can be found in installation folder.
+The [installation guide](Installation_Guides/Installation_Guide.md) for node.js, ethers, hardhat, ethereum-waffel, web3modal, ipfs, axios can be found in installation folder.
+
 ---
 ## **Contributors**
 * [Bailey Carlson](https://github.com/BaileyCT)
