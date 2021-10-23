@@ -1,6 +1,6 @@
 # **Installation Guide**
 
-1. Node.js
+1. **Node.js**
 
     Step 1: Navigate to https://nodejs.org/en/download/. Download the package suitable for your Operating system
 
@@ -19,7 +19,7 @@
     ![react1](create_react1.png)
     ![react2](create_react2.png)
 
-2. Next.js
+2. **Install Next.js**
 
     Step 1: Navigate to your project folder in terminal and execute the below command. Enter the project name when prompted for.
 
@@ -34,7 +34,7 @@
 
     ![nextjs2](nextjs2.png)
 
-3. Install the below on the terminal 
+3. **Install the below on the terminal**
 
     * ethers 
     * hardhat 
@@ -52,7 +52,7 @@
 
     ![installs](Installs.png)
 
-4. Install Styling tools
+4. **Install Styling tools**
 
     * tailwind
     * postcsss
@@ -63,6 +63,17 @@
 
 
     ![styling](styling_tools.png)
+
+
+5. **Initializing the Tailwind**
+
+    In the terminal window, run the below command
+
+    `npx tailwindcss init -p`
+
+    ![init](tailwind_init.png)
+
+
 
 
 
