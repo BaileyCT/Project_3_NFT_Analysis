@@ -26,7 +26,8 @@ To build a smart contract that allows for design of NFT and build a NFT market p
 * ipfs-http-client
 * axios
 ---
-## **Installation guide**
+## **Installation guide** </br>
+
 The [installation guide][Installation_Guides/Installation Guide.md] for node.js, ethers, hardhat, ethereum-waffel, web3modal, ipfs, axios can be found in installation folder.
 ---
 ## **Contributors**
