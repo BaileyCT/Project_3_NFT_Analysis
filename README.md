@@ -26,6 +26,7 @@ To build a smart contract that allows for design,minting of NFT and to build a N
 * ipfs-http-client
 * axios
 * Javascript
+* HTML & CSS
 ---
 ## **Installation guide** </br>
 
